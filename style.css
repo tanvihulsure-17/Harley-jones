@@ -1,0 +1,102 @@
+ul{
+    list-style-type: none;
+}
+
+li{
+    float: right;
+}
+
+.heading{
+    float: left;
+    font-family: "Roboto Condensed";
+    font-size: 25px;
+    color: rgb(71, 68, 68);
+}
+
+a{
+font-size: 20px;
+text-decoration: none;
+color: rgb(166, 158, 158);
+margin-right: 60px;
+}
+
+.navigation{
+    box-shadow: 0px 5px 10px grey;
+    height: 10vh;
+    width: 100%;
+}
+
+h2{
+    font-family: "Oswald";
+    font-size: 45px;
+    color: rgb(67, 64, 64);
+}
+
+h1{
+    font-family: "Lato";
+    font-size: 47px;
+    color: rgb(40, 82, 103);
+}
+
+h5{
+    font-family: Work Sans;
+    font-weight: bold;
+    color: rgb(231, 56, 56);
+    font-size: 20px;
+}
+
+.images{
+    height: 50vh;
+}
+
+.frontpage{
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 30rem;
+}
+
+.texts button{
+    background-color: rgb(53, 120, 208);
+    color: white;
+    height: 6vh;
+    width: 50%;
+    border: none;
+
+}
+
+.logo{
+    height: 7vh;
+    width: 40%;
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    
+}
+
+.footer{
+    background-color: black;
+    height: 30vh;
+    width: 100%;
+    margin-top: 110px;
+}
+
+.logo img{
+    
+    width: 10%;
+    height: 100%;
+    cursor: pointer;
+
+}
+h5{
+    color: grey;
+    text-align: center;
+}
+body{
+    margin: 0%;
+}
+
+button{
+    cursor: pointer;
+}
